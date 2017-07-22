@@ -5,27 +5,19 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 ::-moz-selection {
-    background: rgba(242, 194, 201, 1);
-    color: #a4003a;
+    background: #F6BCBD;
+    color: #C91B1E;
     text-shadow: none;
 }
 ::-webkit-selection {
-    background: rgba(242, 194, 201, 1);
-    color: #a4003a;
+    background: #F6BCBD;
+    color: #C91B1E;
     text-shadow: none;
 }
 ::selection {
-    background: rgba(242, 194, 201, 1);
-    color: #a4003a;
+    background: #F6BCBD;
+    color: #C91B1E;
     text-shadow: none;
-}
-
-.mt {
-    margin-top: 20px;
-}
-
-.mb {
-    margin-bottom: 40px;
 }
 
 /* ==========================================================================
@@ -34,7 +26,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 16px;
 
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
@@ -46,15 +38,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* ==========================================================================
- * Wrap Sections
+ * Header, Sections and Footer
  * ========================================================================== */
-#header-wrap {
+header {
     background: url(../img/header.jpg) no-repeat center top;
-    margin-top: -70px;
-    padding-top: 250px;
+    padding-top: 195px;
     text-align:center;
     background-position: center center;
-    min-height: 650px;
+    height: 540px;
     width: 100%;
     
     -webkit-background-size: 100%;
@@ -66,29 +57,33 @@ h1, h2, h3, h4, h5, h6 {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+
+    border-bottom: 3px solid #f2f2f2;
 }
 
-#header-wrap h1 {
+header h1 {
     color:#ffffff;
+    margin-top: 10px;
     padding-top: 10px;
-    padding-bottom: 10px;
     letter-spacing: 4px;
-    font-size: 80px;
+    font-size: 50px;
     font-weight: bold;
 }
 
-#header-wrap h2, h3, h4 {
+header h2 {
     font-weight: 400;
+    margin-top: 10px;
+    font-size: 25px;
     color: #ffffff;
 }
 
-#header-wrap h1, h2, h3, h4 {
+header h1, h2, h3, h4 {
     text-shadow: 2px 0 0 #2f2f2f, -2px 0 0 #2f2f2f, 0 2px 0 #2f2f2f, 0 -2px 0 #2f2f2f, 1px 1px #2f2f2f, -1px -1px 0 #2f2f2f, 1px -1px 0 #2f2f2f, -1px 1px 0 #2f2f2f;
 }
 
 #icons {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     background-color: #f2f2f2;
 }
 
@@ -98,20 +93,60 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #icons i:hover {
-    color: #1abc9c;
+    color: #E54345;
 }
 
-#footer-wrap {
-    padding-top: 70px;
-    padding-bottom: 40px;
+#summary {
+    font-size: 14px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 20px;
     background-color: #2f2f2f;
 }
 
-#footer-wrap span, #footer-wrap p {
+footer span, footer p {
     color: #ffffff;
 }
 
 #copyright {
     font-size: 14px;
-    padding-top: 30px;
+    padding-top: 25px;
+}
+
+/* ==========================================================================
+ * @media
+ * ========================================================================== */
+@media (min-width: 768px) {
+    #summary {
+        font-size: 16px;
+    }
+} 
+
+@media (min-width: 992px) {
+    header {
+        padding-top: 240px;
+        height: 650px;
+    }
+
+    header h1 {
+        font-size: 80px;
+    }
+
+    header h2 {
+        font-size: 30px;
+    }
+
+    #icons {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    footer {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
 }
