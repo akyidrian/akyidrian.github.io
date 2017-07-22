@@ -1,30 +1,27 @@
 /* ==========================================================================
-   Base Styles, Bootstrap Modifications & Fonts Import
-   ========================================================================== */
+ * Base Styles, Bootstrap Modifications & Fonts Import
+ * ========================================================================== */
 
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 
-p::-moz-selection {
-    background:rgba(242, 194, 201, 1);
+::-moz-selection {
+    background: rgba(242, 194, 201, 1);
     color: #a4003a;
     text-shadow: none;
 }
-p::-webkit-selection {
-    background:rgba(242, 194, 201, 1);
+::-webkit-selection {
+    background: rgba(242, 194, 201, 1);
     color: #a4003a;
     text-shadow: none;
 }
-p::selection {
-    background:rgba(242, 194, 201, 1);
+::selection {
+    background: rgba(242, 194, 201, 1);
     color: #a4003a;
     text-shadow: none;
 }
 
-/*
- * A better looking default horizontal rule
- */
-
- hr {
+/* A better looking default horizontal rule */
+hr {
     display: block;
     height: 1px;
     border: 0;
@@ -34,15 +31,15 @@ p::selection {
 }
 
 .centered {
-	text-align: center
+    text-align: center;
 }
 
 .mt {
-	margin-top: 20px;
+    margin-top: 20px;
 }
 
 .mb {
-	margin-bottom: 40px;
+    margin-bottom: 40px;
 }
 
 #announcement {
@@ -50,10 +47,8 @@ p::selection {
 }
 
 /* ==========================================================================
-   General styles
-   ========================================================================== */
-
-
+ * General styles
+ * ========================================================================== */
 body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
@@ -64,25 +59,23 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 700;
+    font-weight: 700;
     color: #4a4a4a;
 }
 
 
 /* ==========================================================================
-   Wrap Sections
-   ========================================================================== */
-
+ * Wrap Sections
+ * ========================================================================== */
 #headerwrap {
-	background: url(../img/header.jpg) no-repeat center top;
-	margin-top: -70px;
-	padding-top: 250px;
-	text-align:center;
-	background-attachment: relative;
-	background-position: center center;
-	min-height: 650px;
-	width: 100%;
-	
+    background: url(../img/header.jpg) no-repeat center top;
+    margin-top: -70px;
+    padding-top: 250px;
+    text-align:center;
+    background-position: center center;
+    min-height: 650px;
+    width: 100%;
+    
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -95,17 +88,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #headerwrap h1 {
-	color:#ffffff;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	letter-spacing: 4px;
-	font-size: 80px;
-	font-weight: bold;
+    color:#ffffff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 4px;
+    font-size: 80px;
+    font-weight: bold;
 }
 
 #headerwrap h2, h3, h4 {
-	font-weight: 400;
-	color: #ffffff
+    font-weight: 400;
+    color: #ffffff;
 }
 
 #headerwrap h1, h2, h3, h4 {
@@ -113,25 +106,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #icons {
-	padding-top: 50px;
-	padding-bottom: 50px;
-	background-color: #f2f2f2;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f2f2f2;
 }
 
 #icons i {
    font-size: 40px;
-   color: #4a4a4a
+   color: #4a4a4a;
 }
 
 #icons i:hover {
-   color: #1abc9c
+    color: #1abc9c;
 }
 
 
 #footerwrap {
-	padding-top: 70px;
-	padding-bottom: 40px;
-	background-color: #2f2f2f;
+    padding-top: 70px;
+    padding-bottom: 40px;
+    background-color: #2f2f2f;
 }
 
 #footerwrap span, #footerwrap p {
