@@ -20,30 +20,12 @@
     text-shadow: none;
 }
 
-/* A better looking default horizontal rule */
-hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
-    padding: 0;
-}
-
-.centered {
-    text-align: center;
-}
-
 .mt {
     margin-top: 20px;
 }
 
 .mb {
     margin-bottom: 40px;
-}
-
-#announcement {
-    margin-top: 10px;
 }
 
 /* ==========================================================================
@@ -63,11 +45,10 @@ h1, h2, h3, h4, h5, h6 {
     color: #4a4a4a;
 }
 
-
 /* ==========================================================================
  * Wrap Sections
  * ========================================================================== */
-#headerwrap {
+#header-wrap {
     background: url(../img/header.jpg) no-repeat center top;
     margin-top: -70px;
     padding-top: 250px;
@@ -87,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
     background-size: cover;
 }
 
-#headerwrap h1 {
+#header-wrap h1 {
     color:#ffffff;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -96,12 +77,12 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
 
-#headerwrap h2, h3, h4 {
+#header-wrap h2, h3, h4 {
     font-weight: 400;
     color: #ffffff;
 }
 
-#headerwrap h1, h2, h3, h4 {
+#header-wrap h1, h2, h3, h4 {
     text-shadow: 2px 0 0 #2f2f2f, -2px 0 0 #2f2f2f, 0 2px 0 #2f2f2f, 0 -2px 0 #2f2f2f, 1px 1px #2f2f2f, -1px -1px 0 #2f2f2f, 1px -1px 0 #2f2f2f, -1px 1px 0 #2f2f2f;
 }
 
@@ -120,18 +101,17 @@ h1, h2, h3, h4, h5, h6 {
     color: #1abc9c;
 }
 
-
-#footerwrap {
+#footer-wrap {
     padding-top: 70px;
     padding-bottom: 40px;
     background-color: #2f2f2f;
 }
 
-#footerwrap span, #footerwrap p {
+#footer-wrap span, #footer-wrap p {
     color: #ffffff;
 }
 
-.copy {
+#copyright {
     font-size: 14px;
-    padding-top: 35px;
+    padding-top: 30px;
 }
