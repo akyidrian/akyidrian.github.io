@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 header {
     background: url(../img/header.jpg) no-repeat center top;
     padding-top: 195px;
-    text-align:center;
+    text-align: center;
     background-position: center center;
     height: 540px;
     width: 100%;
@@ -100,6 +100,7 @@ header h1, h2, h3, h4 {
     font-size: 14px;
     margin-top: 30px;
     margin-bottom: 40px;
+    text-align: justify;
 }
 
 footer {
