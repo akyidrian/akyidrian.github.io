@@ -103,6 +103,15 @@ header h1, h2, h3, h4 {
     text-align: justify;
 }
 
+#email {
+    color: #ffffff;
+}
+
+#email:hover {
+    text-decoration: none;
+    color: #E54345;
+}
+
 footer {
     padding-top: 30px;
     padding-bottom: 20px;
