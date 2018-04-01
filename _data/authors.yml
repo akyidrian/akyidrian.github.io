@@ -8,11 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
+    I strive for simplicity, consciously explore new ideas and seek out excellence. Designing and building systems, especially with software, is my passion. From analogue circuits, microcontrollers and C to web applications and JS, I have come into contact with many technologies and I'm always looking to learn more. I especially enjoy creating great products and the diligence necessary to get things of the ground.<br><br>Feel free to drop me a line. <b>I’m always open to connecting with others who are like-minded!</b>
 
   # This photo will be used in the about section
   picture:
