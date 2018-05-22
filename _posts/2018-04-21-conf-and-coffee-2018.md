@@ -15,16 +15,17 @@ Overall, my experience was positive. I ended up spending most of my time in work
 
 My top 5 main take-aways were:
 * Engineers and the software systems they create are inherently coupled, meaning they should be more often considered together as a whole;
-* JavaScript is weird;
+* [JavaScript is weird][javascriptIsWeird];
 * Electronics and JavaScript actually do mix;
 * I really need to learn functional programming; and
 * Leadership skills can and must be learnt even by those who aren't in leadership roles.
 
 <!-- Links -->
+[javascriptIsWeird]: 2018-04-22-electronics-and-javascript-actually-do-mix.md
 [codeAndCoffee]: https://www.meetup.com/codecoffeeyvr/
 [unbounce]: https://unbounce.com/
 [confAndCoffeeResources]: https://github.com/Code-and-Coffee-YVR/confcoffee2018
 
-<!-- Documents -->
+<!-- Documents and Images -->
 [confAndCoffeeSchedule]: {{ site.url }}/assets/docs/confAndCoffee2018Schedule.pdf
 [confAndCoffeeLogo]: {{ site.url }}/assets/img/confAndCoffee2018.png
