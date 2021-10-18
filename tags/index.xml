@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Akyidrian</title>
+    <link>https://akyidrian.github.io/tags/</link>
+    <description>Recent content in Tags on Akyidrian</description>
+    <image>
+      <url>https://akyidrian.github.io/cover.jpg</url>
+      <link>https://akyidrian.github.io/cover.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2021 Aydin Arik</copyright>
+    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://akyidrian.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>arduino</title>
+      <link>https://akyidrian.github.io/tags/arduino/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://akyidrian.github.io/tags/arduino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://akyidrian.github.io/tags/javascript/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://akyidrian.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>johnny-five</title>
+      <link>https://akyidrian.github.io/tags/johnny-five/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://akyidrian.github.io/tags/johnny-five/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>js</title>
+      <link>https://akyidrian.github.io/tags/js/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://akyidrian.github.io/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nodejs</title>
+      <link>https://akyidrian.github.io/tags/nodejs/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://akyidrian.github.io/tags/nodejs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code-and-coffee</title>
+      <link>https://akyidrian.github.io/tags/code-and-coffee/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://akyidrian.github.io/tags/code-and-coffee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conference</title>
+      <link>https://akyidrian.github.io/tags/conference/</link>
+      <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://akyidrian.github.io/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>akyidrian</title>
+      <link>https://akyidrian.github.io/tags/akyidrian/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://akyidrian.github.io/tags/akyidrian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first-post</title>
+      <link>https://akyidrian.github.io/tags/first-post/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://akyidrian.github.io/tags/first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

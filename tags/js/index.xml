@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>js on Akyidrian</title>
+    <link>https://akyidrian.github.io/tags/js/</link>
+    <description>Recent content in js on Akyidrian</description>
+    <image>
+      <url>https://akyidrian.github.io/cover.jpg</url>
+      <link>https://akyidrian.github.io/cover.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2021 Aydin Arik</copyright>
+    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://akyidrian.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electronics and JavaScript Actually Do Mix</title>
+      <link>https://akyidrian.github.io/posts/2018-04-22-electronics-and-javascript-actually-do-mix/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://akyidrian.github.io/posts/2018-04-22-electronics-and-javascript-actually-do-mix/</guid>
+      <description>My First Impressions of the Johnny-Five Platform</description>
+    </item>
+    
+    <item>
+      <title>JavaScript is Weird</title>
+      <link>https://akyidrian.github.io/posts/2018-04-22-javascript-is-weird/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://akyidrian.github.io/posts/2018-04-22-javascript-is-weird/</guid>
+      <description>My Summary about Truthy/Falsy Values, Logical Operators, Scope and Objects</description>
+    </item>
+    
+  </channel>
+</rss>

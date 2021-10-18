@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Akyidrian</title>
+    <link>https://akyidrian.github.io/categories/</link>
+    <description>Recent content in Categories on Akyidrian</description>
+    <image>
+      <url>https://akyidrian.github.io/cover.jpg</url>
+      <link>https://akyidrian.github.io/cover.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2021 Aydin Arik</copyright>
+    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://akyidrian.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>embedded-programming</title>
+      <link>https://akyidrian.github.io/categories/embedded-programming/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://akyidrian.github.io/categories/embedded-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://akyidrian.github.io/categories/programming/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://akyidrian.github.io/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>https://akyidrian.github.io/categories/software/</link>
+      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://akyidrian.github.io/categories/software/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
