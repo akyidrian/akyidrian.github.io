@@ -5,38 +5,35 @@
     <link>https://akyidrian.github.io/categories/</link>
     <description>Recent content in Categories on Akyidrian</description>
     <image>
+      <title>Akyidrian</title>
       <url>https://akyidrian.github.io/cover.jpg</url>
       <link>https://akyidrian.github.io/cover.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>© 2021 Aydin Arik</copyright>
-    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://akyidrian.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>© Aydin Arik</copyright>
+    <lastBuildDate>Sun, 22 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://akyidrian.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>embedded-programming</title>
+      <title>Embedded-Programming</title>
       <link>https://akyidrian.github.io/categories/embedded-programming/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://akyidrian.github.io/categories/embedded-programming/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>programming</title>
+      <title>Programming</title>
       <link>https://akyidrian.github.io/categories/programming/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://akyidrian.github.io/categories/programming/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>software</title>
+      <title>Software</title>
       <link>https://akyidrian.github.io/categories/software/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://akyidrian.github.io/categories/software/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
