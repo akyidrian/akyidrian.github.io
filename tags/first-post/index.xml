@@ -15,11 +15,11 @@
     <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://akyidrian.github.io/tags/first-post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Say My Name</title>
-      <link>https://akyidrian.github.io/posts/2018-04-02-say-my-name/</link>
+      <title>Hello Friend</title>
+      <link>https://akyidrian.github.io/posts/2018-04-02-hello-friend/</link>
       <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://akyidrian.github.io/posts/2018-04-02-say-my-name/</guid>
-      <description>A First Blog Post</description>
+      <guid>https://akyidrian.github.io/posts/2018-04-02-hello-friend/</guid>
+      <description>First Blog Post</description>
     </item>
   </channel>
 </rss>
