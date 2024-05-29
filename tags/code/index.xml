@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Code-and-Coffee on Aydin Arik</title>
-    <link>https://akyidrian.github.io/tags/code-and-coffee/</link>
-    <description>Recent content in Code-and-Coffee on Aydin Arik</description>
+    <title>Code on Aydin Arik</title>
+    <link>https://akyidrian.github.io/tags/code/</link>
+    <description>Recent content in Code on Aydin Arik</description>
     <image>
       <title>Aydin Arik</title>
       <url>https://akyidrian.github.io/images/cover.jpg</url>
@@ -13,7 +13,7 @@
     <language>en-us</language>
     <copyright>Aydin Arik</copyright>
     <lastBuildDate>Sat, 21 Apr 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://akyidrian.github.io/tags/code-and-coffee/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://akyidrian.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conf &amp; Coffee 2018</title>
       <link>https://akyidrian.github.io/posts/2018-04-21-conf-and-coffee-2018/</link>
